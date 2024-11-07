@@ -10,5 +10,11 @@ td{height:20px;
     padding: 1px;
     border: 1px solid black;
 }
+.center{
+    text-align: center;
+}
+
+.right{
+    text-align: right;
 .t3-r1{background-color:green;}
 .t3-r2{background-color:blue;}
